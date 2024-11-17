@@ -14,7 +14,7 @@ main{
     align-items: center;
     flex-direction: column;
     background-color: #F68134;
-    height: 80%;
+    height: 85%;
 }
 div{
     display: flex;
@@ -22,9 +22,9 @@ div{
     justify-content: center;
     flex-direction: column;
     background-color: #6AC5E2;
-    height: 60%;
-    width: 60%;
     border-radius: 10px;
+    width: 40%;
+    font-family: 'lexend';
 }
 img{
     height: 300px;
@@ -44,5 +44,10 @@ a{
 }
 footer{
     background-color: #6AC5E2;
-    height: 10%;
+    height: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; 
+    font-family: 'Lexend';
 }
